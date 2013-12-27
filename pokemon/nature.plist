@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>努力</key>
+	<string>0/0</string>
+    <key>寂寞</key>
+	<string>0/1</string>
+    <key>固执</key>
+	<string>0/2</string>
+    <key>顽皮</key>
+	<string>0/3</string>
+    <key>勇敢</key>
+	<string>0/4</string>
+    <key>大胆</key>
+	<string>1/0</string>
+    <key>坦率</key>
+	<string>1/1</string>
+    <key>淘气</key>
+	<string>1/2</string>
+    <key>无虑</key>
+	<string>1/3</string>
+    <key>悠闲</key>
+	<string>1/4</string>
+    <key>谨慎</key>
+	<string>2/0</string>
+    <key>温和</key>
+	<string>2/1</string>
+    <key>腼腆</key>
+	<string>2/2</string>
+    <key>马虎</key>
+	<string>2/3</string>
+    <key>冷静</key>
+	<string>2/4</string>
+    <key>安静</key>
+	<string>3/0</string>
+    <key>温顺</key>
+	<string>3/1</string>
+    <key>慎重</key>
+	<string>3/2</string>
+    <key>浮躁</key>
+	<string>3/3</string>
+    <key>傲慢</key>
+	<string>3/4</string>
+    <key>胆小</key>
+	<string>4/0</string>
+    <key>急躁</key>
+	<string>4/1</string>
+    <key>开朗</key>
+	<string>4/2</string>
+    <key>天真</key>
+	<string>4/3</string>
+    <key>认真</key>
+	<string>4/4</string>
+</dict>
+</plist>
